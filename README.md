@@ -32,4 +32,4 @@ This project showcases skills in data visualization, dashboard design, and analy
 
 Screenshots/images
 
-Dashboard image looks like 
+Dashboard image looks like https://github.com/alishbam76001/chocolateSalesReport/blob/main/visualReport.png
